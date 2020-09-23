@@ -30,7 +30,7 @@ namespace ApiLearning
          * Order of submission UriOneLocation + NAMEQUERY + CityName + APIKEY
          */
         public string CityName = "Katy";
-        const string APIKEY = "&appid=3330f05caa5758104b85b39b04d3efc1";
+        const string APIKEY = "&appid=fake";//fake apikey
         const string NAMEQUERY = "?q=";
         const string UriOneLocation = "http://api.openweathermap.org/data/2.5/weather";
 
